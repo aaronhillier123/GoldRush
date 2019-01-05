@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoldTrain/GoldTrain.unity
+  isLoaded: 1
+  isActive: 1
